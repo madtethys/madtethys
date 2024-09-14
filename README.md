@@ -40,49 +40,6 @@ Ayrıca, e-ticaret alanında da faaliyet gösteriyorum. İşletmelerin dijital d
 >
 > Uzmanlık: Ürün listeleme, SEO optimizasyonu, sosyal medya yönetimi, kampanya planlama ve analiz
 
-# Projelerim
-
-## [Missio Parfüm](https://missioparfum.com/)
-![Missio Parfüm](./goruntuler/projeler/MissioParfumE-TicaretSistemi.gif)
-
-Missio Parfüm, parfüm satış mağazamın e-ticaret altyapısını WooCommerce kullanarak baştan sona yaptım ve şu anda işletmeye devam ediyorum.
-
-Oluşturulma Tarihi:*12 Ağu 2024 - (Devam Ediyor)*
-
-Kullanılan Teknolojiler:
-- [WordPress](https://wordpress.com/)
-- [WooCommerce](https://woocommerce.com/)
-
-[Proje'yi Görüntüle](https://missioparfum.com/)
-
-## [Spotify Son Dinlenenler](https://spotify.mdusova.com/)
-![Spotify Son Dinlenenler](https://spotify.mdusova.com/api?user=31e4wu2ua42rf5qvqaukgjwgz7tu)
-
-Bu projede, Spotify API'sini kullanarak son oynatılan parçaları gösteren bir uygulama geliştirdim.
-
-Oluşturulma Tarihi: *09 Eyl 2024 - 13 Eyl 2024*
-
-Kullanılan Teknolojiler:
-- [TypeScript](https://www.typescriptlang.org/)
-- [NodeJS](https://nodejs.org/en)
-- [NextJS](https://nextjs.org/)
-
-[Proje'yi Görüntüle](https://github.com/madtethys/spotify-son-dinlenenler) | [Kullanmaya Başla](https://spotify.mdusova.com/)
-
-## [Demir Logistics](https://github.com/madtethys/demirlogistics-tracker)
-![Demir Logistics](./goruntuler/projeler/DemirLogisticsDriverHub.gif)
-
-Demir Logistics firmasının araçları üzerinden veri alıp tahmini kargo teslim süresini alıcıya gösterme sistemi yani kargo takip sistemini yaptım.
-
-Oluşturulma Tarihi: *21 Eki 2021 - 18 Oca 2022*
-
-Kullanılan Teknolojiler:
-- [C++](https://cplusplus.com/)
-- [CMake](https://cmake.org/)
-- [C](https://www.learn-c.org/)
-
-[Proje'yi Görüntüle](https://github.com/madtethys/demirlogistics-tracker)
-
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
