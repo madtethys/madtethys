@@ -36,7 +36,7 @@ Ayrıca, e-ticaret alanında da faaliyet gösteriyorum. İşletmelerin dijital d
 # Projelerim
 
 ## [Missio Parfüm](https://missioparfum.com/)
-![Missio Parfüm](./goruntuler/MissioParfumE-TicaretSistemi.gif)
+![Missio Parfüm](./goruntuler/projeler/MissioParfumE-TicaretSistemi.gif)
 *12 Ağu 2024 - (Devam Ediyor)*
 
 Missio Parfüm, parfüm satış mağazamın e-ticaret altyapısını WooCommerce kullanarak baştan sona yaptım ve şu anda işletmeye devam ediyorum.
@@ -65,7 +65,7 @@ Kullanılan Teknolojiler:
 ---
 
 ## [Demir Logistics](https://github.com/madtethys/demirlogistics-tracker)
-![Demir Logistics](./goruntuler/DemirLogisticsDriverHub.gif)
+![Demir Logistics](./goruntuler/projeler/DemirLogisticsDriverHub.gif)
 *21 Eki 2021 - 18 Oca 2022*
 
 Demir Logistics firmasının araçları üzerinden veri alıp tahmini kargo teslim süresini alıcıya gösterme sistemi yani kargo takip sistemini yaptım.
