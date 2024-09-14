@@ -19,27 +19,35 @@ Ayrıca, e-ticaret alanında da faaliyet gösteriyorum. İşletmelerin dijital d
 
 ## 🚀 Yazılım Geliştirme
 > Diller ve Teknolojiler: [Python, JavaScript, PHP, Swift]
+> 
 > Araçlar ve Çerçeveler: [React, Node.js, NextJS]
+> 
 > Projeler: Web uygulamaları, mobil uygulamalar, API geliştirme
+> 
 > Deneyim: **8 yıl**lık deneyimim var ve sürekli olarak en iyi uygulama standartlarını takip ederek yenilikçi çözümler üretmeye odaklanıyorum.
 
 ## 🎨 Grafik Tasarım
 > Yazılımlar: [Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Figma]
+> 
 > Alanlar: Logo tasarımı, kullanıcı arayüzü (UI) tasarımı, kurumsal kimlik oluşturma
+> 
 > Projeler: Markalar için yaratıcı ve etkili görsel çözümler, kullanıcı deneyimini iyileştiren tasarımlar
 
 ## 🛒 E-Ticaret ve Pazarlama
 > Deneyim: E-ticaret platformlarının kurulumu ve yönetimi, dijital pazarlama stratejileri geliştirme
+>
 > Araçlar: [Shopify, WooCommerce, Prestashop, Opencart]
+>
 > Uzmanlık: Ürün listeleme, SEO optimizasyonu, sosyal medya yönetimi, kampanya planlama ve analiz
 
 # Projelerim
 
 ## [Missio Parfüm](https://missioparfum.com/)
 ![Missio Parfüm](./goruntuler/projeler/MissioParfumE-TicaretSistemi.gif)
-*12 Ağu 2024 - (Devam Ediyor)*
 
 Missio Parfüm, parfüm satış mağazamın e-ticaret altyapısını WooCommerce kullanarak baştan sona yaptım ve şu anda işletmeye devam ediyorum.
+
+Oluşturulma Tarihi:*12 Ağu 2024 - (Devam Ediyor)*
 
 Kullanılan Teknolojiler:
 - [WordPress](https://wordpress.com/)
@@ -47,13 +55,12 @@ Kullanılan Teknolojiler:
 
 [Proje'yi Görüntüle](https://missioparfum.com/)
 
----
-
 ## [Spotify Son Dinlenenler](https://spotify.mdusova.com/)
-![Spotify Son Dinlenenler](https://camo.githubusercontent.com/af80d7e605bd9c28f466b3caa5e9aa5a2521696422fe627d7bb0747bd2407ad9/68747470733a2f2f73706f746966792e6d6475736f76612e636f6d2f6170693f757365723d333165347775327561343272663571767161756b676a77677a37747526636f756e743d33)
-*09 Eyl 2024 - 13 Eyl 2024*
+![Spotify Son Dinlenenler](https://spotify.mdusova.com/api?user=31e4wu2ua42rf5qvqaukgjwgz7tu)
 
 Bu projede, Spotify API'sini kullanarak son oynatılan parçaları gösteren bir uygulama geliştirdim.
+
+Oluşturulma Tarihi: *09 Eyl 2024 - 13 Eyl 2024*
 
 Kullanılan Teknolojiler:
 - [TypeScript](https://www.typescriptlang.org/)
@@ -62,13 +69,12 @@ Kullanılan Teknolojiler:
 
 [Proje'yi Görüntüle](https://github.com/madtethys/spotify-son-dinlenenler) | [Kullanmaya Başla](https://spotify.mdusova.com/)
 
----
-
 ## [Demir Logistics](https://github.com/madtethys/demirlogistics-tracker)
 ![Demir Logistics](./goruntuler/projeler/DemirLogisticsDriverHub.gif)
-*21 Eki 2021 - 18 Oca 2022*
 
 Demir Logistics firmasının araçları üzerinden veri alıp tahmini kargo teslim süresini alıcıya gösterme sistemi yani kargo takip sistemini yaptım.
+
+Oluşturulma Tarihi: *21 Eki 2021 - 18 Oca 2022*
 
 Kullanılan Teknolojiler:
 - [C++](https://cplusplus.com/)
