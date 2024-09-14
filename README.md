@@ -42,8 +42,8 @@ Ayrıca, e-ticaret alanında da faaliyet gösteriyorum. İşletmelerin dijital d
 
 
 ## GitHub İstatistiklerim
-[İstatistik 1](https://github-readme-stats.vercel.app/api?username=madtethys&show_icons=true&theme=tokyonight) [İstatistik 2](https://github-readme-stats.vercel.app/api/top-langs/?username=madtethys&layout=compact&theme=tokyonight)
-[İstatistik 3](https://github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app)/?username=madtethys&theme=nord)
+[![İstatistik 1](https://github-readme-stats.vercel.app/api?username=madtethys&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=madtethys&show_icons=true&theme=tokyonight) [![İstatistik 2](https://github-readme-stats.vercel.app/api/top-langs/?username=madtethys&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=madtethys&layout=compact&theme=tokyonight)
+[![İstatistik 3](https://github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app)/?username=madtethys&theme=nord)](https://github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app)/?username=madtethys&theme=nord)
 
 ## İlgi Alanlarım </>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
