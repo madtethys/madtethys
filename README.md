@@ -9,8 +9,8 @@
 </p> 
 
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">Şu anda Spotify üzerinden dinlediğim şarkı:</summary>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31e4wu2ua42rf5qvqaukgjwgz7tu&unique={true|1|on|yes}" class="center">
+  <summary style="font-weight: bold; font-size: 18px">API'sini kendi yapmış olduğum "Spotify Son Dinlenen Müzikler" listem:</summary>
+<img src="https://spotify.mdusova.com/api?user=31e4wu2ua42rf5qvqaukgjwgz7tu" class="center">
 </details>
 
 <details align="center">
