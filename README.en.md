@@ -2,12 +2,11 @@
 <img src="./welcome.png" alt="Welcome to madtethys's github profile."></img>
 <p align="center">
     <a href="https://github.com/madtethys" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://vsco.co/mstarda" target"blank_"><img src="https://img.shields.io/badge/vsco%20-191717.svg?&style=for-the-badge&logo=vsco&logoColor=white"></a>
     <a href="https://www.instagram.com/mdusova/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-191717.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31e4wu2ua42rf5qvqaukgjwgz7tu" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://x.com/madgrafik" target"blank_"><img src="https://i.hizliresim.com/lzfsyes.png" style="height: 28px;"></a>
     <a href="https://github.com/madtethys/" target"blank_"><img src="https://komarev.com/ghpvc/?username=madtethys&label=Profile%20Views&color=191717&style=for-the-badge" style="width:101.75; height:28;"></a>
-<a href="https://github.com/madtethys/madtethys/blob/main/README.en.md" target"blank_"><img src="./TurkishButton.png" style="height:28;"></a>
+<a href="https://github.com/madtethys/madtethys/blob/main/README.en.md" target"blank_"><img src="./TurkishButton.png" style="height: 28px;"></a>
 </p> 
 
 ## ✒️ About Me
