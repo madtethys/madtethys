@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">welcome back to madtethys's github profile. <br></h2>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selam, ben Mustafa Arda. Profilime hoş geldiniz. <br></h2>
 <img src="./welcome.png" alt="Welcome to madtethys's github profile."></img>
 <p align="center">
     <a href="https://github.com/madtethys" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
@@ -7,7 +7,7 @@
 <a href="https://open.spotify.com/user/31e4wu2ua42rf5qvqaukgjwgz7tu" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://x.com/madgrafik" target"blank_"><img src="https://i.hizliresim.com/lzfsyes.png" style="height: 28px;"></a>
     <a href="https://github.com/madtethys/" target"blank_"><img src="https://komarev.com/ghpvc/?username=madtethys&label=Profil%20görüntülenmesi&color=191717&style=for-the-badge" style="width:101.75; height:28;"></a>
-
+<a href="https://github.com/madtethys/madtethys/blob/main/README.en.md" target"blank_"><img src="./EnglishButton.png" style="height:28;"></a>
 </p> 
 
 ## ✒️ Hakkımda
