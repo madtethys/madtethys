@@ -44,10 +44,10 @@ Ayrıca, e-ticaret alanında da faaliyet gösteriyorum. İşletmelerin dijital d
 ## 🎵 Spotify Son Dinlediğim Müzikler
 > Kendi yaptığım Spotify Son Dinlediğim Müzikler projem
 
-[![Spotify Son Dinlenenler by madtethys](https://spotify.mdusova.com/api?user=31e4wu2ua42rf5qvqaukgjwgz7tu)](https://spotify.mdusova.com/api?user=31e4wu2ua42rf5qvqaukgjwgz7tu)
+[![Spotify Son Dinlenenler by madtethys](https://spotify.mdusova.com/api?user=31e4wu2ua42rf5qvqaukgjwgz7tu)](https://spotify.mdusova.com/api?user=31e4wu2ua42rf5qvqaukgjwgz7tu)(https://spotify.mdusova.com/)
 
 ## 📈 GitHub İstatistiklerim
-[![İstatistik 1](https://github-readme-stats.vercel.app/api?username=madtethys&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=madtethys&show_icons=true&theme=tokyonight) [![İstatistik 2](https://github-readme-stats.vercel.app/api/top-langs/?username=madtethys&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=madtethys&layout=compact&theme=tokyonight)
+[![İstatistik 1](https://github-readme-stats.vercel.app/api?username=madtethys&show_icons=true&theme=tokyonight)](https://github.com/madtethys) [![İstatistik 2](https://github-readme-stats.vercel.app/api/top-langs/?username=madtethys&layout=compact&theme=tokyonight)](https://github.com/madtethys)
 
 ## 🎯 İlgi Alanlarım
 [![İlgi Alanlarım](./MyFocus.png)](https://mdusova.com/)
