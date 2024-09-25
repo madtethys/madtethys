@@ -50,4 +50,4 @@ Ayrıca, e-ticaret alanında da faaliyet gösteriyorum. İşletmelerin dijital d
 [![İstatistik 1](https://github-readme-stats.vercel.app/api?username=madtethys&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=madtethys&show_icons=true&theme=tokyonight) [![İstatistik 2](https://github-readme-stats.vercel.app/api/top-langs/?username=madtethys&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=madtethys&layout=compact&theme=tokyonight)
 
 ## 🎯 İlgi Alanlarım
-[![İlgi Alanlarım](https://skillicons.dev/icons?theme=dark&i=js,ts,py,html,css,go,rust,vscode,tailwind,github,nextjs,react,mongodb,nodejs,bun)](https://mdusova.com/)
+[![İlgi Alanlarım](./MyFocus.png)](https://mdusova.com/)
