@@ -50,4 +50,4 @@ I also work in the field of e-commerce. I develop e-commerce platforms for busin
 [![Stats](https://github-readme-stats.vercel.app/api?username=madtethys&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=madtethys&show_icons=true&theme=tokyonight) [![İstatistik 2](https://github-readme-stats.vercel.app/api/top-langs/?username=madtethys&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=madtethys&layout=compact&theme=tokyonight)
 
 ## 🎯 My Interests
-[![MyInterests](https://skillicons.dev/icons?theme=dark&i=js,ts,py,html,css,go,rust,vscode,tailwind,github,nextjs,react,mongodb,nodejs,bun)](https://mdusova.com/)
+[![MyInterests](./MyFocus.png)](https://mdusova.com/)
